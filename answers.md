@@ -53,3 +53,12 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 
+10) My answers did copy locally
+
+11) It said that I already pushed
+
+12) Yes
+
+13) .  ..  git-lab  git-lab-2
+
+
